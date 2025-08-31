@@ -54,13 +54,13 @@ The app uses **Provider** for state management:
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/screenshots/home_screen.jpg)
+![Home Screen](assets/screenshots/home_screen.jpeg)
 
 ### 👨‍✈️ Drivers Screen
-![Drivers Screen](assets/screenshots/drivers_screen.jpg)
+![Drivers Screen](assets/screenshots/drivers_screen.jpeg)
 
 ### 🚗 Vehicles Screen
-![Vehicles Screen](assets/screenshots/vehicles_screen.jpg)
+![Vehicles Screen](assets/screenshots/vehicles_screen.jpeg)
 
 ---
 
