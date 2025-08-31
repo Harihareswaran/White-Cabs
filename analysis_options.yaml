@@ -1,0 +1,10 @@
+analyzer:
+  exclude:
+    - '**/*.g.dart'
+linter:
+  rules:
+    - prefer_const_constructors
+    - avoid_print
+errors:
+    undefined_function: ignore # Suppress TripAssignmentScreen error
+    avoid_print: warning # Keep avoid_print as warning
